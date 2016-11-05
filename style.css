@@ -1,0 +1,30 @@
+*{
+	margin: auto;
+	padding: 0px;
+}
+
+body{
+	background-color: #011D33;
+	/*background: url("background3.jpg") no-repeat fixed center;
+	background-size: cover;*/
+}
+
+.homepage{
+	text-align: center;
+	color: white;
+}
+
+input[type=text]{
+	border: none;
+	background: transparent;
+	border-bottom: 2px solid white;
+	color: white;
+}
+input[type=button]{
+	position: relative;
+	top: -45px;
+	left: 160px;
+	border-radius: 50%;
+	padding: 6px;
+
+}
